@@ -11,7 +11,7 @@ django-cors-headers==3.5.0
 django==3.1
 
 # Django Rest
-djangorestframework==3.11.1
+djangorestframework==3.11.2
 
 # Seeders
 django-seed==0.2.2
